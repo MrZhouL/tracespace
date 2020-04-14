@@ -33,9 +33,9 @@ function App(): JSX.Element {
 
   return (
     <Main onDragOver={preventDefault} onDrop={handleFiles}>
-      <BoardDisplay />
-      <FileList />
-      <BoardList />
+      {/* <BoardDisplay /> */}
+      {/* <FileList /> */}
+      {/* <BoardList /> */}
       <Nav handleFiles={handleFiles} handleUrl={handleUrl} />
       <LoadFiles handleFiles={handleFiles} handleUrl={handleUrl} />
       <ErrorToast />
