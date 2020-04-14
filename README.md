@@ -347,3 +347,5 @@ git push origin master --follow-tags
 ```
 
 The release will be published to the `latest` npm tag for bare versions (e.g. `4.0.0`) and to `next` for pre-release versions (e.g. `4.0.0-next.0`).
+
+我就是这么牛逼！！！！
